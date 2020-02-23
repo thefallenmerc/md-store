@@ -18,3 +18,7 @@ MD files in your repo, works like a charm
 1. Run `npm run push` - to scan and push to repo
 2. Run `npm run scan` - to scan the files
 3. Run `npm run serve` - to scan the files and serve them
+
+### Have any question?
+
+Email me by clicking [here](mailto:thefallenmerc@gmail.com?Subject=Hey%20Shubham)
